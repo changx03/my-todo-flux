@@ -9,9 +9,8 @@ Check the bottom for: Remaining functionality
 # Usage
 
 ```bash
-cd path/to/flux-shell
-npm install
-npm run build
+yarn
+yarn build
 # open path/to/flux-shell/index.html in your browser
 ```
 
