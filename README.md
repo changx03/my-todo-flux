@@ -20,6 +20,6 @@ Instead of manually building after each change it's possible to automatically
 recompile the javascript bundle when files change:
 
 ```bash
-npm run watch
+yarn watch
 # make javascript changes, then refresh path/to/flux-shell/index.html
 ```
